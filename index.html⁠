@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang Web Của TôiTHPROXY </title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        body {
+            background-color: #f4f7f6;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 60px 20px;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        section {
+            margin-bottom: 30px;
+        }
+        section h2 {
+            color: #4a5568;
+            border-bottom: 2px solid #e2e8f0;
+            padding-bottom: 8px;
+            margin-bottom: 15px;
+        }
+        .btn {
+            display: inline-block;
+            background-color: #667eea;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 4px;
+            text-decoration: none;
+            transition: background 0.3s;
+        }
+        .btn:hover {
+            background-color: #5a67d8;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            color: #718096;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Xin chào, tôi là TH PROXY</h1>
+        <p>Chào mừng bạn đến với TH PROXY.</p>
+    </header>
+
+    <div class="container">
+        <section>
+            <h2>Giới thiệu</h2>
+            <p>Đây là một đoạn mã mẫu cơ bản được thiết kế để giúp bạn bắt đầu nhanh chóng với việc lập trình web. Bạn có thể thay đổi nội dung, màu sắc và cấu trúc này tùy theo ý thích.</p>
+        </section>
+
+        <section>
+            <h2>Dịch vụ / Kỹ năng</h2>
+            <ul>
+                <li>Thiết kế giao diện (HTML/CSS)</li>
+                <li>Lập trình tương tác (JavaScript)</li>
+                <li>Phát triển ứng dụng web</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Liên hệ0386133504</h2>
+            <p>Hãy kết nối với tôi để cùng nhau xây dựng những sản phẩm tuyệt vời nhé!</p>
+            <br>
+            <a href="#" class="btn">Gửi tin nhắn https://t.me/ProxyTH09
+</
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Bản quyền thuộc về bạn 8386133504.</p>
+    </footer>
+
+</body>
+</html>
